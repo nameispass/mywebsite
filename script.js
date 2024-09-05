@@ -1,3 +1,3 @@
-function displayAlert() {
-    alert("Hello! You clicked the button.");
-}
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("Trang web đã tải xong!");
+});
